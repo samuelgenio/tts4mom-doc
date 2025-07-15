@@ -7,7 +7,7 @@ Text to speech project for Mansions of Madness companion app.
 * Reading is induced by the user (pressing a key)
 * Reading voice is configurable
 
-[*MVP video link*](/docs/demo.mp4)
+[*MVP video link*](https://youtu.be/ThmzyHfFC8I)
 
 
 ## ChangeLog
