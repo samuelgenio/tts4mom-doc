@@ -15,7 +15,7 @@ Text to speech project for Mansions of Madness companion app.
 
 **Buy me a coffee**
 
-[Go to page](https://github.com/samuelgenio/tts4mom-doc)
+[Go to page](https://ko-fi.com/samuelgenio)
 
 ## ChangeLog
 
